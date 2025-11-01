@@ -38,6 +38,12 @@ The app helps users make more conscious cosmetic choices by providing simple and
 
 ---
 
+## 📧 Contact
+
+For support, feedback, or business inquiries, please reach out to: **alperenahmetpolat@gmail.com**
+
+---
+
 ## ❓ F.A.Q.
 
 ### Q: How does Ingredia analyze the ingredients?
@@ -61,5 +67,7 @@ A: While scanning functionality is available, a simple log-in via Apple ID or Go
 * **Purpose:** To provide information to the user by scanning and analyzing cosmetic product ingredients with AI
 
 ---
+
+
 
 **Ingredia – Know what you put on your skin, use with confidence.**
